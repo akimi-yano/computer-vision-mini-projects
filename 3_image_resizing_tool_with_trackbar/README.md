@@ -1,0 +1,1 @@
+This code creates a trackbar to resize an image.

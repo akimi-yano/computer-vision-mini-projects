@@ -1,11 +1,11 @@
 # Computer Vision & Image Profession Mini Projects
 
-- QR Code Detector
-- Face Annotation Tool
-- Image Resizing Tool with Trackbar
+- 1 QR Code Detector
+- 2 Face Annotation Tool
+- 3 Image Resizing Tool with Trackbar
+- 4 Erosion and Dilation from Scratch
 
 TODO:
-- Erosion and Dilation from Scratch
 - Coin Detection 
 - Color Spaces
 - Autofocus

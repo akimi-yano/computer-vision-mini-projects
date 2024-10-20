@@ -1,0 +1,1 @@
+This code decodes the QR codes.
